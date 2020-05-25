@@ -1,2 +1,2 @@
 # Hackintosh-General
-Troubleshooting and archive
+Troubleshooting and archive for Hackintosh
