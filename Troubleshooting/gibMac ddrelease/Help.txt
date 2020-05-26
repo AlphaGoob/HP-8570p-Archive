@@ -1,0 +1,1 @@
+ddrelease64.exe plaatsen in script folder als deze niet gevonden wordt door install maker. 
