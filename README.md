@@ -1,5 +1,5 @@
-# HP-8570p-Troubleshooting
-Troubleshooting, Tools, KEXT and Drivers for Hackintosh
+# HP-8570p-Archive
+Troubleshooting and Archive with Tools, KEXT and Drivers for Hackintosh on HP EliteBook 8570p
 
 // Notes
 * All tested on HP EliteBook 8570p (Please see the full guide/repo)
