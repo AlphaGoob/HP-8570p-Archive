@@ -1,4 +1,4 @@
-# Hackintosh-General
+# HP-8570p-Troubleshooting
 Troubleshooting, Tools, KEXT and Drivers for Hackintosh
 
 // Notes
