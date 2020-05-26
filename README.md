@@ -5,7 +5,7 @@ Troubleshooting, Tools, KEXT and Drivers for Hackintosh
 * All tested on HP EliteBook 8570p (Please see the full guide/repo)
 * Workarounds and settings are added to the readme file
 * Working and not working kext and drivers are added to this repo. 
-* Read the readme for descriptions and problems of "Not Working" kexts and drivers 
+* Troubleshooting information is available in the readme file
 
 // Tested on
 * macOS 10.13 High Sierra
