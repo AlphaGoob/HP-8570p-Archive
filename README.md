@@ -12,7 +12,7 @@ Troubleshooting, Tools, KEXT and Drivers for Hackintosh
 * macOS 10.14 Mojave
 * macOS 10.15 Catalina
 
-// Guides (References)
+// Guides (Only as References, not fully working)
 * HP ProBook/EliteBook https://www.tonymacx86.com/threads/guide-hp-probook-elitebook-zbook-using-clover-uefi-hotpatch.261719/
 * Clover https://www.tonymacx86.com/threads/guide-booting-the-os-x-installer-on-laptops-with-clover.148093/
 * RAM Mapping https://hackintosher.com/forums/thread/mapping-ram-and-dimm-slots-on-a-hackintosh-with-clover-smbios.365/
