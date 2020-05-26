@@ -51,10 +51,10 @@ Troubleshooting, Tools, KEXT and Drivers for Hackintosh
 - IO80211Family.kext (Broadcom 4312 | BRCM94312) - It will show the correct WiFi card but you cannot find any network or connect. The card isn't supported from Sierra and above.  
 
 // Drivers | Not working
-- AptioInputFix.efi
-- DataHubDxe-64.efi
-- EmuVariableUefi-64.efi
-- OsxAptioFix2Drv-64.efi
-- OsxAptioFix3Drv-64.efi
-- OsxAptioFix3Drv.efi
-- VBoxHfs.efi
+- AptioInputFix.efi - End RandomSeed / End LoadRamDisk error. Use OsxAptioFixDrv-64.efi instead
+- DataHubDxe-64.efi - ACPI Error: Method parse/execution failed. Removing it will fix the problem. 
+- EmuVariableUefi-64.efi - macOS not booting at all. Use OsxAptioFixDrv-64.efi instead
+- OsxAptioFix2Drv-64.efi - End RandomSeed / End LoadRamDisk error. Use OsxAptioFixDrv-64.efi instead
+- OsxAptioFix3Drv-64.efi - End RandomSeed / End LoadRamDisk error. Use OsxAptioFixDrv-64.efi instead
+- OsxAptioFix3Drv.efi - End RandomSeed / End LoadRamDisk error. Use OsxAptioFixDrv-64.efi instead
+- VBoxHfs.efi - Not needed for APFS files
