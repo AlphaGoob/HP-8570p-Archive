@@ -3,6 +3,8 @@ Troubleshooting, Tools, KEXT and Drivers for Hackintosh
 
 // Notes
 * All tested on HP EliteBook 8570p
+* Workarounds and settings are added to the readme file
+* Working and not working kext and drivers are added to this repo. Read the readme for descriptions and problems. 
 
 // Tested on
 * macOS 10.13 High Sierra
@@ -28,5 +30,5 @@ Troubleshooting, Tools, KEXT and Drivers for Hackintosh
 
 // SIP protection work around
 * Even with SIP turned off mac has a super-super-root user in the form of a virtual disk. Disable it:
-* sudo mount -uw /
-* killall Finder
+* `sudo mount -uw /`
+* `killall Finder`
